@@ -7,3 +7,6 @@
 * https://leetcode.com/problems/article-views-i/?envType=study-plan-v2&envId=top-sql-50
 
 * https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=top-sql-50
+
+
+* https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/?envType=study-plan-v2&envId=top-sql-50
